@@ -1,6 +1,6 @@
 # 🎶 Music Player App
 
-A fully functional **Music Player Application** made using HTML, CSS, and JavaScript.  
+A fully functional **Music Player Application** made using HTML, CSS, and JavaScript. 
 It allows users to play, pause, switch songs, control volume, and interact with a user-friendly music interface.
 
 ---
