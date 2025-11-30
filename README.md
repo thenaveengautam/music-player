@@ -33,8 +33,6 @@ music-player/
 ├── index.html
 ├── style.css
 ├── script.js
-├── songs/
-│   └── your-mp3-files.mp3
 └── README.md
 
 ---
